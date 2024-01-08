@@ -11,6 +11,7 @@
 ![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeonoraMaitan&theme=monokai) ![Top languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeonoraMaitan&theme=monokai)
 
 </div>
+
 ## Skills
 <div align="center"> 
 
