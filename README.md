@@ -6,10 +6,9 @@
 
 </div>
 
-<div align="center">
-
-![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeonoraMaitan&theme=monokai) ![Top languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeonoraMaitan&theme=monokai)
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeonoraMaitan&show_icons=true&count_private=true&hide_border=true&title_color=FF8C00&icon_color=FF8C00&text_color=c9d1d9&bg_color=0d1117" alt="Leonora Maitan github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonoraMaitan&layout=compact&hide_border=true&title_color=FF8C00&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ## Skills
