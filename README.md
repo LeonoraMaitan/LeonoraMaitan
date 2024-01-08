@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Leonora+Maitan;I'm+from+Brazil;And+I'm+a+systems+Development+Technician;Be+Welcome+to+my+Github+portfolio!+:%29)](https://git.io/typing-svg)
+
 <div align="center">
   
 ![Profile dertails card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonoraMaitan&theme=monokai)
@@ -42,8 +44,11 @@
 [![nodejs](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 [![ruby](https://skillicons.dev/icons?i=ruby)](https://skillicons.dev)
 [![rails](https://skillicons.dev/icons?i=rails)](https://skillicons.dev)
-[![blazor](https://skillicons.dev/icons?i=blazor)](https://skillicons.dev)
 
+##
 </div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/leonora-maitan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
